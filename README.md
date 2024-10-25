@@ -9,20 +9,6 @@ Boston’s MBTA buses serve over a million passengers daily, contributing to loc
 - Analyze on-time performance and delays.
 - Uncover potential disparities in service levels based on demographics.
 
-## Key Questions
-The analysis addresses questions including:
-- Ridership per route.
-- Travel times and average delays across routes.
-- Disparities in service levels for specific routes.
-- Potential correlations between service disparities and demographic factors.
-
-## Project Deliverables
-The final deliverables include:
-- **Data**: Cleaned datasets available on Google Drive and GitHub.
-- **Code**: All scripts for data cleaning, analysis, and visualization.
-- **Report**: Final report with answers to key questions, visualizations, and statistical summaries.
-- **Presentation**: Summary presentation of key findings and visualizations.
-
 ## Repository Structure
 - **dataset-documentation/**: Documentation and preliminary data cleaning notes.
 - **notebooks/**: Jupyter notebooks for data analysis and visualization, including the latest work on answering base project questions.
