@@ -2,13 +2,9 @@ import argparse
 import concurrent.futures
 import itertools
 import os
-import time
 import warnings
-import numpy as np
 import pandas as pd
-from joblib import Parallel, delayed
 from tqdm import tqdm 
-from tqdm.contrib.concurrent import thread_map
 warnings.filterwarnings("ignore", category=pd.errors.SettingWithCopyWarning)
 
 FOLDER = os.path.join('..', 'dataset-documentation', 'raw_data')
