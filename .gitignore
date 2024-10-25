@@ -173,3 +173,4 @@ $RECYCLE.BIN/
 .venv
 
 *.csv
+*.ipynb_checkpoints
