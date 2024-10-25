@@ -1,4 +1,4 @@
-WGBH Impact and Equity: Boston Bus Equity (Fall 2024 Project)
+##WGBH Impact and Equity: Boston Bus Equity (Fall 2024 Project)
 Overview
 This repository contains all code, data, and documentation for the Boston Bus Equity project, conducted in partnership with Paul Singer, Senior Editor, Equity & Justice at GBH News. This project, part of BU’s DS701 practicum course, aims to explore the impact of MBTA bus performance on Boston residents, examining service disparities and trends across different neighborhoods. The analysis will help inform news stories on the accessibility and equity of Boston’s public transportation system.
 
