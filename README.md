@@ -26,11 +26,11 @@ Are there disparities in the service levels of different routes (which lines are
 
 - The datasets for this project are listed below. 
 
-# Ridership
+### Ridership
 - Fall 2019 https://mbta-massdot.opendata.arcgis.com/datasets/47bbf5047f0646fbae11ef3ed8ccea47_0/explore?filters=eyJzZWFzb24iOlsiRmFsbCAyMDE5Il19 
 - Fall 2022 https://mbta-massdot.opendata.arcgis.com/datasets/47bbf5047f0646fbae11ef3ed8ccea47_0/explore?filters=eyJzZWFzb24iOlsiRmFsbCAyMDIyIl19 
 
-# Reliability
+### Reliability
 - 2019 Bus Departure/Arrival Times https://mbta-massdot.opendata.arcgis.com/datasets/1bd340b39942438685d8dcdfe3f26d1a/about 
 - 2022 Bus Departure/Arrival Times https://mbta-massdot.opendata.arcgis.com/datasets/ef464a75666349f481353f16514c06d0/about 
 
