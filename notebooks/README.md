@@ -1,4 +1,4 @@
-# README: How to Load Datasets
+# README: How to Utilize notebooks
 
 This guide explains how to load and manage the datasets for the Boston MBTA Bus Equity project. Follow the instructions below to set up file paths, filter files, and load data into a combined DataFrame.
 
