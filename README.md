@@ -39,7 +39,6 @@ This project aims to deliver a detailed analysis of the Massachusetts Bay Transp
 ### Prerequisites
 - Python 3.8 or above
 - Required libraries are listed in `requirements.txt`.
-  ## WGBH Impact and Equity: Boston Bus Equity (Fall 2024 Project)
 
 ### Utilizing Jupyter Notebooks for Analysis
 The **notebooks/** folder contains Jupyter notebooks used for data analysis and visualization. Here are step-by-step instructions to use them effectively:
