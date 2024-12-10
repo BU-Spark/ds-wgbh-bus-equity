@@ -4,7 +4,7 @@ This guide explains how to load and manage the datasets for the Boston MBTA Bus 
 
 ## File specific Path Configuration
 ### Define the File Directory
-Ensure all relevant datasets for 2019 and 2022 are stored in the same directory. Replace spaceholder, for example, `...`, in the following code with your local directory path.
+Ensure all relevant datasets for 2019 and 2022 are stored in the same directory. Replace spaceholder, for example, `...`, in the code with your local directory path.
 
 Run the following code according to the instructions or comment in the file accordingly.
 
