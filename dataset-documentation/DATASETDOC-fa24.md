@@ -1,5 +1,3 @@
-Here’s a comprehensive response to the questions based on the provided report and additional context:
-
 ### ***Project Information***
 **Project Name:**  
 WGBH Impact and Equity: Boston Bus Equity  
