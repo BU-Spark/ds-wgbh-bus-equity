@@ -39,3 +39,48 @@ This project aims to deliver a detailed analysis of the Massachusetts Bay Transp
 ### Prerequisites
 - Python 3.8 or above
 - Required libraries are listed in `requirements.txt`.
+
+### Utilizing Jupyter Notebooks for Analysis
+The **notebooks/** folder contains Jupyter notebooks used for data analysis and visualization. Here are step-by-step instructions to use them effectively:
+
+1. **Setup Environment**:
+   - Ensure Python 3.8 or above is installed on your machine.
+   - Install the required dependencies by running:
+     ```bash
+     pip install -r requirements.txt
+     ```
+   - Optionally, create a virtual environment for the project to isolate dependencies.
+
+2. **Access Notebooks**:
+   - Navigate to the `notebooks/` directory.
+   - Open the notebook of interest using Jupyter Notebook or JupyterLab by running:
+     ```bash
+     jupyter notebook
+     ```
+
+3. **Notebook Structure**:
+   - Each notebook is structured to address specific key questions from the project.
+   - Sections typically include:
+     - **Introduction**: Overview of the analysis.
+     - **Data Loading and Preprocessing**: Steps to prepare the data for analysis.
+     - **Exploratory Data Analysis (EDA)**: Visualization and descriptive statistics.
+     - **Results and Insights**: Key findings from the analysis.
+
+4. **Running Notebooks**:
+   - Execute cells sequentially to ensure dependencies are met.
+   - Modify code as needed to explore different scenarios or test hypotheses.
+
+5. **Saving Outputs**:
+   - Use built-in notebook features to export results as HTML or PDF.
+   - Save visualizations and tables for inclusion in reports or presentations.
+
+### Contributions
+Contributions to this project are welcome. Please follow these steps:
+1. Fork the repository and create a new branch for your changes.
+2. Make edits or add new features.
+3. Submit a pull request with a detailed description of your changes.
+
+### License
+This project is licensed under the GPL-3.0 license. See the `LICENSE` file for more details.
+
+
